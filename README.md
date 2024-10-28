@@ -8,8 +8,10 @@ These scripts require the following CMIP6 variables, for the models / ensemble m
 
 The netcdf files containing the daily and monthly SIA and SIE values can be recreated using the scripts here, or can be directly downloaded from the Arctic Data Centre.
 
-Also uploaded two xls tables:
+Also uploaded the two optional xls tables:
 - Models_v1 lists the models and ensemble members that passed the historical comparison test;
 - ChosenOnes lists the models, ensemble members, and experiments of the quick transition simulations that we investigated using the storyline approach.
 
 Each script comes with a long preamble that gives more information about thresholds used, output structure etc
+
+Missing: RILE calculation of section 2.3
