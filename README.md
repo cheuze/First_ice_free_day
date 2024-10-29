@@ -7,7 +7,7 @@ These scripts require the following CMIP6 variables, for the models / ensemble m
 - daily tas
 - daily psl
 
-The netcdf files containing the daily and monthly SIA and SIE values can be recreated using the scripts here, or can be directly downloaded from the Arctic Data Centre.
+The netcdf files containing the daily and monthly SIA and SIE values can be recreated using the scripts here, or can be directly downloaded from the Arctic Data Center.
 
 Also uploaded the two optional xls tables:
 - Models_v1 lists the models that passed the historical comparison test;
